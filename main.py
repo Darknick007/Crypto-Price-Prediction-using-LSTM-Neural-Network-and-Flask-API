@@ -1,6 +1,8 @@
 import sys
 import io
+import os
 
+os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
 # setting utf 8
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
