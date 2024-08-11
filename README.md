@@ -1,6 +1,6 @@
 # Crypto-Price-Prediction-using-LSTM-Neural-Network-and-Flask-API
 
-**Bitcoin Price Prediction with LSTM Neural Network**
+**Crypto Price Prediction with LSTM Neural Network**
 
 This project leverages a machine learning model to predict Bitcoin prices using a Long Short-Term Memory (LSTM) neural network, created with Python and the TensorFlow and Keras libraries. The model is trained on historical Bitcoin data, incorporating various technical indicators to enhance prediction accuracy. An API endpoint is also set up using Flask, allowing users to make predictions based on specified dates.
 

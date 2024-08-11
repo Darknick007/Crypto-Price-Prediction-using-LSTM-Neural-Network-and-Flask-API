@@ -24,7 +24,7 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 logging.basicConfig(level=logging.INFO)
 
 # API configuration
-API_KEY = 'HGPKDDSMETSEMD7C'  # Replace with your Alpha Vantage API key
+API_KEY = ''  # Replace with your Alpha Vantage API key
 SYMBOL = 'BTC'
 MARKET = 'USD'
 
