@@ -7,3 +7,4 @@ DISCLAIMER
 
 **obviously this project does not predict the market 100%, in fact it is not recommended to use for financial reasons because it follows an LSTM neural network and therefore most of the time it will give non-useful results.
 it is an experiment and therefore it is recommended to use for other projects or experiments.**
+
